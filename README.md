@@ -21,6 +21,7 @@ Execute the following commands
 Testing the commands for the desired output. 
 
 # COMMANDS:
+
 ### Create the following files file1, file2 as follows:
 cat > file1
 ```
@@ -1085,6 +1086,7 @@ else
 fi
 ```
 ## OUTPUT 
+![image](https://github.com/gowriganeshns/OS-Linux-commands-Shell-script/assets/151513860/74b3c28a-da57-4550-81f7-e36de71a14fe)
 
 
 # RESULT:
